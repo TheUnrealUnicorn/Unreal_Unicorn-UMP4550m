@@ -1,0 +1,54 @@
+{
+  "name": "UMP4550",
+  "author": "Unreal_Unicorn",
+  "version": "1.0.0",
+  "license": "MIT",
+  "src":{
+    "src/modloader.js": "CacheModLoad"
+  },
+  "folders": [
+  "files/items",
+	"files/assort/ragfair",
+	"files/locales/en",
+	"files/templates"
+  ],
+  "filenames": [
+      "UMP4550m"
+
+  ],
+  "extras": [
+      "extras/mags"
+  ],
+  "things": [
+    "55d4887d4bdc2d962f8b4570",
+    "5c05413a0db834001c390617",
+    "5c6d450c2e221600114c997d",
+    "5c6d42cb2e2216000e69d7d1",
+    "59c1383d86f774290a37e0ca",
+    "5aaa5e60e5b5b000140293d6",
+    "5448c1d04bdc2dff2f8b4569",
+    "5aaa5dfee5b5b000140293d3",
+    "5d1340b3d7ad1a0b52682ed7",
+    "544a378f4bdc2d30388b4567",
+    "5d1340bdd7ad1a0e8d245aab",
+    "55802d5f4bdc2dac148b458e",
+    "5d1340cad7ad1a0b0b249869",
+    "5c6592372e221600133e47d7",
+    "544a37c44bdc2d25388b4567",
+    "5c6d46132e221601da357d56",
+    "58948c8e86f77409493f7266",
+    "5894a05586f774094708ef75",
+    "5c5db6552e2216001026119d",
+    "5c5db6652e221600113fba51",
+    "5c5db6742e2216000f1b2852",
+    "5e81c4ca763d9f754677befa",
+    "5f3e77b26cda304dcc634057",
+    "5ef3448ab37dfd6af863525c",
+    "5a78832ec5856700155a6ca3",
+    "5a78830bc5856700137e4c90",
+    "5a7882dcc5856700177af662",
+    "587e08ee245977446b4410cf",
+    "55d355e64bdc2d962f8b4569"
+  ],
+  	"required": []
+}
