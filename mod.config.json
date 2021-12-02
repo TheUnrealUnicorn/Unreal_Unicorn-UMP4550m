@@ -1,7 +1,7 @@
 {
   "name": "UMP4550m",
   "author": "Unreal_Unicorn",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "src":{
     "src/modloader.js": "CacheModLoad"
