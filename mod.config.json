@@ -1,20 +1,21 @@
 {
-  "name": "UMP4550m",
-  "author": "Unreal_Unicorn",
-  "version": "1.1.0",
-  "license": "MIT",
-  "src":{
-    "src/modloader.js": "CacheModLoad"
-  },
-  "folders": [
-  "files/items",
-	"files/assort/ragfair",
-	"files/locales/en",
-	"files/templates"
-  ],
-  "filenames": [
-      "UMP4550m"
+    "name": "UMP4550m",
+    "author": "Unreal_Unicorn",
+    "version": "2.0.0",
+    "license": "MIT",
+    "src": {
+        "src/modloader.js": "CacheModLoad",
+        "src/gun.js": "CacheModLoad"
+    },
+    "folders": [
+        "files/items",
+        "files/assort/ragfair",
+        "files/locales/en",
+        "files/templates"
+    ],
+    "filenames": [
+        "UMP4550m"
 
-  ],
-  	"required": []
+    ],
+    "required": []
 }
